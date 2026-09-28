@@ -1,2 +1,18 @@
 # SmartTour-BigData
-Smartour desarrolla plataforma BigData para analizar el turismo
+
+Proyecto para analizar datos turísticos mediante tecnologías Big Data.
+
+## Tecnologías
+
+- Python
+- Docker
+- JupyterLab
+- Pandas
+
+## Instalación
+
+docker compose up
+
+## Objetivo
+
+Analizar demanda turística y crear cuadros de mando.
